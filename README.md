@@ -79,8 +79,11 @@ This analysis is conducted in a controlled environment for educational purposes.
 
 ### 📝 Citation
 If you use this analysis in your research or learning:
+
 Memory Forensics Analysis of MemLabs Lab 4: Obsession
+
 Volatility 3 Framework Analysis - Phase 1: Process Mapping
+
 [Jynx], July 2025
 
 Next Update: Phase 2 analysis focusing on network artifacts and file system recovery techniques.
