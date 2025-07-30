@@ -58,6 +58,8 @@ Final flag extraction
 Complete attack chain reconstruction
 Defensive recommendations
 
+---
+
 ### 🎯 Learning Outcomes
 This analysis demonstrates:
 
