@@ -40,9 +40,9 @@ Environment: Kali Linux
 - dwm.exe (Desktop Window Manager)
 - taskhost.exe (Task Scheduler)
 
-### [📄READ Report [.md]](PHASE-1/PHASE1-Report.md)
-### [🔗READ Report [.PDF]](PHASE-1/PHASE1-Report.md)
-### [⤵️Download Report [.PDF]](https://github.com/jynxora/LAB-4-OBSESSION-Volatility-Scan/raw/main/PHASE-1/PHASE1-REPORT.pdf)
+[📄READ Phase-1 Report [.md]](PHASE-1/PHASE1-Report.md)
+[🔗READ Phase-1 Report [.PDF]](PHASE-1/PHASE1-Report.md)
+[⤵️Download Phase-1 Report [.PDF]](https://github.com/jynxora/LAB-4-OBSESSION-Volatility-Scan/raw/main/PHASE-1/PHASE1-REPORT.pdf)
 
 
 ---
