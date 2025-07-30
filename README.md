@@ -76,6 +76,7 @@ Share your own analysis approaches
 
 ### ⚠️ Disclaimer
 This analysis is conducted in a controlled environment for educational purposes. The memory dump contains simulated malware scenarios designed for learning digital forensics techniques.
+
 ### 📝 Citation
 If you use this analysis in your research or learning:
 Memory Forensics Analysis of MemLabs Lab 4: Obsession
