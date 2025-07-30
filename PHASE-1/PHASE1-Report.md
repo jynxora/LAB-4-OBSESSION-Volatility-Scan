@@ -10,7 +10,7 @@
 - **System Profile (from `windows.info`):** Windows 7 SP1 x64
 - **Volatility Version Used:** Volatility 3 Framework - 2.26.0
 - **Duration: N/A**
-- **Flags:** `inctf{...}`
+- **Flags: N/A** 
 
 ---
 
