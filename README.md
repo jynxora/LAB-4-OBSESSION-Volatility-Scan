@@ -40,6 +40,11 @@ Environment: Kali Linux
 - dwm.exe (Desktop Window Manager)
 - taskhost.exe (Task Scheduler)
 
+## [READ Report [.md]](PHASE-1/PHASE1-Report.md)
+
+
+---
+
 ## 🔄 Phase 2: Deep Artifact Analysis
 ### Status: Coming Soon | ETA: 1-2 days
 
