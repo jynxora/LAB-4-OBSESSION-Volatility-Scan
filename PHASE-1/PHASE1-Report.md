@@ -32,8 +32,8 @@ Lab 4 “Obsession” tests the analyst’s willingness to go beyond default out
 | --- | --- |
 | Volatility | **Volatility 3** [2.26.0] |
 | OS | **Kali Linux** |
-| Other Tools | Strings
-grep |
+| Other Tools | Strings |
+| | grep |
 
 ![image.png](image.png)
 
