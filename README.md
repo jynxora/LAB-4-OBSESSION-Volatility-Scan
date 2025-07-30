@@ -84,7 +84,7 @@ Volatility 3 Framework Analysis - Phase 1: Process Mapping
 
 Next Update: Phase 2 analysis focusing on network artifacts and file system recovery techniques.
 
-Stay tuned for the complete investigation journey! 🔍
+Stay tuned for the complete investigation journey!
 
 Last Updated: July 30, 2025 | Analysis Status: Phase 1 Complete
 
